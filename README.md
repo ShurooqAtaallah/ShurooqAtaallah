@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shurooq Ataallah
 - 👀 I’m interested in Software Testing 
-- 🌱 I’m currently learning Test Cases, Bug reports, Manual Testing, API Testing, API Automation Testing, Newman Reporter, GIT commands ..and more
+- 🌱 I’m currently learning Test Cases, Bug reports, Manual Testing, API Testing, API Automation Testing, Newman Reporter, GIT commands ..And More.
 - 💞️ I’m looking to collaborate on Manual Testing Projects and API Automation Testing. 
 - 📫 reach me by ShurooqAtaallah@gmail.com
 
